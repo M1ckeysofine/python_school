@@ -1,2 +1,2 @@
 # python_school
-resources used to teach intro to Python
+These are some python example resources used to teach intro to Python to High School students
